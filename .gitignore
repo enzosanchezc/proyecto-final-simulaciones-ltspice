@@ -1,0 +1,5 @@
+examples/
+lib/
+*.log
+*.raw
+*.defs
